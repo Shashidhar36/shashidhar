@@ -13,4 +13,3 @@ module.exports.locationInfo2 = function(req, res){
 module.exports.addReview = function(req, res){
     res.render('locations-review-form', { title: 'ADD REVIEW' });
   };
-  git 
